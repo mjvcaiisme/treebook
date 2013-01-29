@@ -1,6 +1,11 @@
 mike:
   first_name: "Mike"
   last_name: "Miller"
-  profile_name: "mikemiller"
   email: "mike@miller.com"
-  encrypted_password: "password"
+  profile_name: "mikemiller"
+
+john:
+  first_name: "John"
+  last_name: "Neufeld"
+  email: "john@neufeld.com"
+  profile_name: "johnneufeld"
