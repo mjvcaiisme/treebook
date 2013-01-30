@@ -1,11 +1,11 @@
-mike:
-  first_name: "Mike"
-  last_name: "Miller"
-  email: "mike@miller.com"
-  profile_name: "mikemiller"
+lucas:
+  first_name: "Lucas"
+  last_name: "Lu"
+  email: "mjvcaiisme@hotmail.com"
+  profile_name: "mjvcaiisme"
 
-john:
-  first_name: "John"
-  last_name: "Neufeld"
-  email: "john@neufeld.com"
-  profile_name: "johnneufeld"
+kobe:
+  first_name: "Kobe"
+  last_name: "Bryant"
+  email: "kobe@kobe.com"
+  profile_name: "kobebryant"

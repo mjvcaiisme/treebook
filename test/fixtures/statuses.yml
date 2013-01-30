@@ -2,13 +2,13 @@
 
 one:
   content: MyText
-  user: mike
+  user: lucas
 
 
 two:
   content: MyText
-  user: mike
+  user: lucas
 
 three:
-  content: "Hi, I'm John"
-  user: john
+  content: "Hi, I'm Kobe"
+  user: kobe
